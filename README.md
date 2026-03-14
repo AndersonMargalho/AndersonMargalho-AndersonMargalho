@@ -7,7 +7,7 @@
 ---
 
 ## 🔒 Sobre Mim
-Sou um profissional de Segurança da Informação e Desenvolvedor Python com foco em automação de tarefas, análise de redes e proteção de dados. Trabalho como freelancer, ajudando pequenas empresas e indivíduos a fortalecerem sua segurança digital de forma prática e acessível.
+Sou um profissional de Segurança da Informação com 3-5 anos de experiência em redes e infraestrutura. Atualmente, estou expandindo minhas habilidades através do desenvolvimento Python focado em automação de segurança e análise de dados, documentando minha jornada prática neste perfil.
 
 Usuário intensivo de ferramentas de IA para otimização de workflows e resolução de problemas complexos. Acredito em segurança preventiva e soluções open-source.
 
