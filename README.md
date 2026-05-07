@@ -47,7 +47,6 @@ Confira meu repositório principal com scripts úteis:
 Estou sempre aberto a discutir novas oportunidades, colaborações em segurança ou projetos de automação.
 
 - 📧 **Email:** andersonmargalho@gmail.com
-- 🧪 **Prolific Profile:** [Anderson Margalho - Prolific](https://app.prolific.com/) *(Perfil ativo em estudos de TI e IA)*
 
 ---
 
