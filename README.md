@@ -1,58 +1,90 @@
-# 👋 Hi, I'm Anderson Margalho! / Olá, sou o Anderson!
-
-**IT Security Specialist | Python Developer | AI Researcher**
-*Information Security & Automation Professional with 3-5 years of experience.*
-
----
-
-### 🌐 About Me / Sobre Mim
-
-**[EN]** I am an Information Security professional with over 3 years of experience in networks and infrastructure. Currently, I focus on developing Python solutions for security automation, data analysis, and workflow optimization. I am an intensive user of AI tools and an active participant in academic research for AI safety and RLHF (Reinforcement Learning from Human Feedback).
-
-**[PT]** Profissional de Segurança da Informação com mais de 3 anos de experiência em redes e infraestrutura. Atualmente, foco no desenvolvimento de soluções em Python para automação de segurança, análise de dados e otimização de fluxos de trabalho. Sou usuário intensivo de ferramentas de IA e participante ativo em pesquisas acadêmicas para segurança de IA e RLHF.
+<!-- Badges -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![Security](https://img.shields.io/badge/Security-000000?style=for-the-badge&logo=shield&logoColor=white)
 
 ---
 
-### 🛠 Technical Skills / Habilidades Técnicas
+# 👋 Hi, I'm Anderson Margalho!
 
-- **Languages & Scripting:** 
-  - Python (Automation, Security Scripts, Data Analysis)
-  - Bash/Shell Scripting (Linux Automation)
-- **Information Security:** 
-  - Network Analysis (Wireshark, TCPdump)
-  - Risk Assessment & Basic Compliance
-  - Firewall Configuration & Access Policies
-  - Phishing Awareness & Social Engineering
-- **Tools & Platforms:** 
-  - OS: Linux (Ubuntu, Kali), Windows Server
-  - Version Control: Git & GitHub
-  - Virtualization: Docker (Basic), Virtual Machines
-  - Pentesting Tools: Nmap, Metasploit (Basic)
+**Software Engineer | AI & Security | Python Developer**
+*IT Consultant & Automation Specialist with 11+ years of professional experience.*
 
 ---
 
-### 🤖 AI Research & Evaluation / Pesquisa em IA
+### 🌐 About Me
 
-**[EN]** Experienced in evaluating Large Language Models (LLMs) through:
-- Prompt Engineering and output annotation.
-- RLHF (Reinforcement Learning from Human Feedback).
-- Testing AI for safety, logic, and technical accuracy in coding tasks.
+I'm a freelance **Software Engineer and IT Consultant** working remotely from Brazil. I focus on **AI, automation, and security** solutions. I have **11+ years of professional experience** and I'm an active participant in **AI research** (LLM evaluation, RLHF, prompt engineering).
 
-**[PT]** Experiência na avaliação de Modelos de Linguagem (LLMs) através de:
-- Engenharia de Prompt e anotação de saídas.
-- RLHF (Aprendizado por Reforço com Feedback Humano).
-- Testes de IA para segurança, lógica e precisão técnica em tarefas de programação.
+I have a strong analytical mindset and enjoy **behavioral economics, decision-making scenarios, and resource management simulations**. I excel at quantitative tasks and highly prefer structured data inputs over open-ended writing.
+
+Beyond tech, I'm an **audio enthusiast** with experience in AI-generated audio (TTS, speech synthesis, sound design) using high-fidelity in-ear monitors (IEMs). I'm also a **gamer** (10-12h/week), work out regularly, meditate daily, and enjoy sci-fi and fantasy content.
 
 ---
 
-### 📂 Projects / Projetos
-Check my main repository for utility scripts: 
-👉 **[meus-projetos-python](https://github.com/AndersonMargalho/meus-projetos-python)**
+### 🛠 Technical Skills
+
+**Languages & Scripting:**
+- Python (Automation, Security Scripts, Data Analysis)
+- SQL, JavaScript, HTML
+- Bash/Shell Scripting (Linux Automation)
+
+**AI & Automation:**
+- LLM Evaluation & AI Model Evaluation
+- Prompt Engineering & RLHF
+- UX Research & UX Testing
+- Zapier, Make, n8n, Cursor
+
+**Information Security:**
+- Network Analysis (Wireshark, TCPdump)
+- Risk Assessment & Basic Compliance
+- Firewall Configuration & Access Policies
+- Phishing Awareness & Social Engineering
+
+**Tools & Platforms:**
+- OS: Linux (Ubuntu, Kali), Windows 10 Pro, Android
+- Version Control: Git & GitHub
+- Virtualization: Docker (Basic), Virtual Machines
+- Pentesting Tools: Nmap, Metasploit (Basic)
+
+**AI APIs:**
+- Direct API from Anthropic, DeepSeek, Google, OpenAI
+- GPT, Gemini, Claude, DeepSeek
 
 ---
 
-### 📩 Contact / Contato
+### 🤖 AI Research & Evaluation
+
+Experienced in evaluating **Large Language Models (LLMs)** through:
+- Prompt Engineering and output annotation
+- RLHF (Reinforcement Learning from Human Feedback)
+- Testing AI for safety, logic, and technical accuracy in coding tasks
+- Cognitive tasks and evaluating digital content
+
+---
+
+### 📂 Projects
+
+- **[meus-projetos-python](https://github.com/AndersonMargalho/meus-projetos-python)** — Utility scripts in Python (Automation, Security, Data Analysis)
+- *(Add more projects here)*
+
+---
+
+### 📊 GitHub Stats
+
+![Anderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonMargalho&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonMargalho&layout=compact&theme=dark)
+
+---
+
+### 📫 Contact
+
+- **GitHub:** [@AndersonMargalho](https://github.com/AndersonMargalho)
 - **Email:** andersonmargalho@gmail.com
-- **Research:** Active participant in Tech & AI studies. 
 
-> *"Security is not a product, but a process."* — Bruce Schneier
+---
+
+*"Security is not a product, but a process." — Bruce Schneier*
