@@ -6,6 +6,8 @@
 ![AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
 ![Security](https://img.shields.io/badge/Security-000000?style=for-the-badge&logo=shield&logoColor=white)
 
+### 📫 Connect with me
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andersonmargalho@gmail.com)
 
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Material_Buy_2180/)
