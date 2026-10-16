@@ -85,6 +85,10 @@ Experienced in evaluating **Large Language Models (LLMs)** through:
 
 ### 📊 GitHub Stats
 
+## 📊 Commits
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AndersonMargalho&theme=dark)
+
 ![Anderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonMargalho&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonMargalho&layout=compact&theme=dark)
 
