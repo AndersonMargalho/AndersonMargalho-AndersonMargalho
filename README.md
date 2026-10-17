@@ -38,8 +38,7 @@ With over a decade of experience building software solutions, I now focus on hel
 ## Let's connect
 
 If you're assembling an evaluation panel, designing annotation schemas, or need someone who can translate technical observations into actionable insights about model behavior — let's talk.
-
-📧 Email: andersonmargalho@gmail.com  
+ 
 🐙 GitHub: [@AndersonMargalho](https://github.com/AndersonMargalho)  
 
 *"The best evaluations don't just measure what models say — they reveal why those answers matter."*
