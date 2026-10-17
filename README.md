@@ -1,104 +1,45 @@
-<!-- Badges -->
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
-![Security](https://img.shields.io/badge/Security-000000?style=for-the-badge&logo=shield&logoColor=white)
+# Anderson Margalho
 
-### 📫 Connect with me
+Freelance Software Engineer & IT Consultant specializing in **AI model evaluation**, **prompt engineering**, and **automation workflows**. Based in Belém, Brazil 🇧 | Working remotely worldwide.
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andersonmargalho@gmail.com)
+With over a decade of experience building software solutions, I now focus on helping research teams evaluate large language models through structured rubrics, behavioral analysis, and quantitative assessment frameworks. My background spans full-stack development, information security, and human-AI interaction design.
 
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Material_Buy_2180/)
+## What I bring to research collaborations
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/anderson09482)
+- **LLM Evaluation Expertise:** Hands-on experience assessing model outputs across dimensions like safety, reasoning accuracy, code quality, and instruction following using both automated metrics and qualitative review
+- **Prompt Engineering & Optimization:** Designing, testing, and iterating prompts for consistent performance; documenting failure modes and edge cases systematically  
+- **RLHF Familiarity:** Understanding reinforcement learning from human feedback pipelines, reward modeling concepts, and annotation guidelines used in alignment research
+- **Quantitative Mindset:** Comfortable with Likert scales, comparative rankings, confidence intervals, and structured data entry — preferring precision over open-ended narrative when evaluating responses
+- **Audio Quality Assessment:** Trained critical listening skills applied to TTS/speech synthesis evaluation, working in controlled acoustic environments with high-fidelity monitoring equipment
+- **Technical Communication:** Clear documentation habits developed through years of consulting work; able to articulate findings precisely without ambiguity or speculation
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/anderson.margalho.7)
+## Technical foundation
 
----
+**Languages:** Python (primary), SQL, JavaScript, HTML, Bash  
+**AI Tooling:** OpenAI API, Anthropic Claude, Google Gemini, DeepSeek, GitHub Copilot, Cursor  
+**Automation Platforms:** n8n, Make (Integromat), Zapier  
+**Security & Infrastructure:** Network analysis (Wireshark, TCPdump), firewall configuration, penetration testing basics (Nmap, Metasploit), Docker, Linux administration  
 
-# 👋 Hi, I'm Anderson Margalho!
+## Selected projects
 
-**Software Engineer | AI & Security | Python Developer**
-*IT Consultant & Automation Specialist with 11+ years of professional experience.*
+| Project | Description | Link |
+|---------|-------------|------|
+| **Python Portfolio** | Eight hands-on implementations spanning fundamentals to advanced applications: AI sentiment analyzer with Gemini API integration, cryptographic hash verification tools, network port scanners, password generators, and more | [github.com/AndersonMargalho/python-portfolio](https://github.com/AndersonMargalho/python-portfolio) |
+| *(Add future showcase repos here as they're built)* | | |
 
----
+## Research participation profile
 
-### 🌐 About Me
+- Completed between 11–50 studies involving model response review, data annotation tasks, cognitive assessments, and digital content evaluation
+- Experienced with longitudinal study designs requiring sustained attention across multiple sessions
+- Reliable completion rates with strong adherence to instructions and timing requirements
+- Available for confidential engagements under NDA terms
+- Preferred engagement types: structured surveys, matrix-based ratings, comparative ranking exercises, binary classification tasks
 
-I'm a freelance **Software Engineer and IT Consultant** working remotely from Brazil. I focus on **AI, automation, and security** solutions. I have **11+ years of professional experience** and I'm an active participant in **AI research** (LLM evaluation, RLHF, prompt engineering).
+## Let's connect
 
-I have a strong analytical mindset and enjoy **behavioral economics, decision-making scenarios, and resource management simulations**. I excel at quantitative tasks and highly prefer structured data inputs over open-ended writing.
+If you're assembling an evaluation panel, designing annotation schemas, or need someone who can translate technical observations into actionable insights about model behavior — let's talk.
 
-Beyond tech, I'm an **audio enthusiast** with experience in AI-generated audio (TTS, speech synthesis, sound design) using high-fidelity in-ear monitors (IEMs). I'm also a **gamer** (10-12h/week), work out regularly, meditate daily, and enjoy sci-fi and fantasy content.
+📧 Email: andersonmargalho@gmail.com  
+🐙 GitHub: [@AndersonMargalho](https://github.com/AndersonMargalho)  
 
----
-
-### 🛠 Technical Skills
-
-**Languages & Scripting:**
-- Python (Automation, Security Scripts, Data Analysis)
-- SQL, JavaScript, HTML
-- Bash/Shell Scripting (Linux Automation)
-
-**AI & Automation:**
-- LLM Evaluation & AI Model Evaluation
-- Prompt Engineering & RLHF
-- UX Research & UX Testing
-- Zapier, Make, n8n, Cursor
-
-**Information Security:**
-- Network Analysis (Wireshark, TCPdump)
-- Risk Assessment & Basic Compliance
-- Firewall Configuration & Access Policies
-- Phishing Awareness & Social Engineering
-
-**Tools & Platforms:**
-- OS: Linux (Ubuntu, Kali), Windows 10 Pro, Android
-- Version Control: Git & GitHub
-- Virtualization: Docker (Basic), Virtual Machines
-- Pentesting Tools: Nmap, Metasploit (Basic)
-
-**AI APIs:**
-- Direct API from Anthropic, DeepSeek, Google, OpenAI
-- GPT, Gemini, Claude, DeepSeek
-
----
-
-### 🤖 AI Research & Evaluation
-
-Experienced in evaluating **Large Language Models (LLMs)** through:
-- Prompt Engineering and output annotation
-- RLHF (Reinforcement Learning from Human Feedback)
-- Testing AI for safety, logic, and technical accuracy in coding tasks
-- Cognitive tasks and evaluating digital content
-
----
-
-### 📂 Projects
-
-- **[meus-projetos-python](https://github.com/AndersonMargalho/meus-projetos-python)** — Utility scripts in Python (Automation, Security, Data Analysis)
-- *(Add more projects here)*
-
----
-
-### 📊 GitHub Stats
-
-![Anderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonMargalho&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonMargalho&layout=compact&theme=dark)
-
-## 📊 Commits
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AndersonMargalho&theme=dark)
-
----
-
-### 📫 Contact
-
-- **GitHub:** [@AndersonMargalho](https://github.com/AndersonMargalho)
-- **Email:** andersonmargalho@gmail.com
-
----
-
-*"Security is not a product, but a process." — Bruce Schneier*
+*"The best evaluations don't just measure what models say — they reveal why those answers matter."*
