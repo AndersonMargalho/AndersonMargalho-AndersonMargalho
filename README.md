@@ -25,7 +25,7 @@ With over a decade of experience building software solutions, I now focus on hel
 | Project | Description | Link |
 |---------|-------------|------|
 | **Python Portfolio** | Eight hands-on implementations spanning fundamentals to advanced applications: AI sentiment analyzer with Gemini API integration, cryptographic hash verification tools, network port scanners, password generators, and more | [github.com/AndersonMargalho/python-portfolio](https://github.com/AndersonMargalho/python-portfolio) |
-| *(Add future showcase repos here as they're built)* | | |
+|
 
 ## Research participation profile
 
