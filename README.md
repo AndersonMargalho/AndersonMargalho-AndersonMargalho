@@ -26,11 +26,14 @@ With over a decade of experience building software solutions, I now focus on hel
 
 ---
 
-## Selected projects
+### Selected projects
 
 | Project | Description | Link |
-|---------|-------------|------|
-| **Python Portfolio** | Eight hands-on implementations spanning fundamentals to advanced applications: AI sentiment analyzer with Gemini API integration, cryptographic hash verification tools, network port scanners, password generators, and more | [github.com/AndersonMargalho/python-portfolio](https://github.com/AndersonMargalho/python-portfolio) |
+| :--- | :--- | :--- |
+| **LLM Harness** | Python CLI for benchmarking LLM providers (latency, cost, accuracy). | [View Code](https://github.com/AndersonMargalho/llm-api-evaluation-harness) |
+| **Survey Insights** | Streamlit dashboard for automated EDA and publication-ready survey visualizations. | [View Code](https://github.com/AndersonMargalho/survey-insights-generator) |
+| **SQL Playground** | Advanced SQL queries (Window Functions, CTEs) on public datasets. | [View Code](https://github.com/AndersonMargalho/sql-data-analysis-playground) |
+| **JS Components** | Vanilla JS dashboard components with zero build step. | [Live Demo](https://andersonmargalho.github.io/javascript-dashboard-components/) |
 
 ---
 
@@ -83,11 +86,14 @@ Com mais de uma década de experiência construindo soluções de software, hoje
 
 ---
 
-## Projetos selecionados
+### Projetos selecionados
 
 | Projeto | Descrição | Link |
-|---------|-----------|------|
-| **Portfólio Python** | Oito implementações práticas abrangendo fundamentos até aplicações avançadas: analisador de sentimento com integração à API Gemini, ferramentas de verificação criptográfica de hash, scanners de portas de rede, geradores de senhas, e mais | [github.com/AndersonMargalho/python-portfolio](https://github.com/AndersonMargalho/python-portfolio) |
+| :--- | :--- | :--- |
+| **LLM Harness** | CLI em Python para benchmark de provedores de LLM (latência, custo, precisão). | [Ver Código](https://github.com/AndersonMargalho/llm-api-evaluation-harness) |
+| **Survey Insights** | Dashboard em Streamlit para EDA automatizada e visualização de dados de pesquisa. | [Ver Código](https://github.com/AndersonMargalho/survey-insights-generator) |
+| **SQL Playground** | Consultas SQL avançadas (Window Functions, CTEs) em datasets públicos. | [Ver Código](https://github.com/AndersonMargalho/sql-data-analysis-playground) |
+| **JS Components** | Componentes de dashboard em Vanilla JS sem etapa de build. | [Live Demo](https://andersonmargalho.github.io/javascript-dashboard-components/) |
 
 ---
 
