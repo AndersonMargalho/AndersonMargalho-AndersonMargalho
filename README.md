@@ -30,10 +30,10 @@ With over a decade of experience building software solutions, I now focus on hel
 
 | Project | Description | Link |
 | :--- | :--- | :--- |
-| **LLM Harness** | Python CLI for benchmarking LLM providers (latency, cost, accuracy). | [View Code](https://github.com/AndersonMargalho/llm-api-evaluation-harness) |
-| **Survey Insights** | Streamlit dashboard for automated EDA and publication-ready survey visualizations. | [View Code](https://github.com/AndersonMargalho/survey-insights-generator) |
-| **SQL Playground** | Advanced SQL queries (Window Functions, CTEs) on public datasets. | [View Code](https://github.com/AndersonMargalho/sql-data-analysis-playground) |
-| **JS Components** | Vanilla JS dashboard components with zero build step. | [Live Demo](https://andersonmargalho.github.io/javascript-dashboard-components/) |
+| **LLM Harness** | Python CLI for benchmarking LLM providers (latency, cost, accuracy). | <a href="https://github.com/AndersonMargalho/llm-api-evaluation-harness">View Code</a> |
+| **Survey Insights** | Streamlit dashboard for automated EDA and publication-ready survey visualizations. | <a href="https://github.com/AndersonMargalho/survey-insights-generator">View Code</a> |
+| **SQL Playground** | Advanced SQL queries (Window Functions, CTEs) on public datasets. | <a href="https://github.com/AndersonMargalho/sql-data-analysis-playground">View Code</a> |
+| **JS Components** | Vanilla JS dashboard components with zero build step. | <a href="https://andersonmargalho.github.io/javascript-dashboard-components/">Live Demo</a> |
 
 ---
 
