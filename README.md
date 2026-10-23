@@ -30,10 +30,10 @@ With over a decade of experience building software solutions, I now focus on hel
 
 | Project | Description | Link |
 | :--- | :--- | :--- |
-| **LLM Harness** | Python CLI for benchmarking LLM providers (latency, cost, accuracy). | <a href="https://github.com/AndersonMargalho/llm-api-evaluation-harness">View Code</a> |
-| **Survey Insights** | Streamlit dashboard for automated EDA and publication-ready survey visualizations. | <a href="https://github.com/AndersonMargalho/survey-insights-generator">View Code</a> |
-| **SQL Playground** | Advanced SQL queries (Window Functions, CTEs) on public datasets. | <a href="https://github.com/AndersonMargalho/sql-data-analysis-playground">View Code</a> |
-| **JS Components** | Vanilla JS dashboard components with zero build step. | <a href="https://andersonmargalho.github.io/javascript-dashboard-components/">Live Demo</a> |
+| **LLM Harness** | Python CLI for benchmarking LLM providers (latency, cost, accuracy). | <a href="https://github.com/AndersonMargalho/llm-api-evaluation-harness">View&nbsp;Code</a> |
+| **Survey Insights** | Streamlit dashboard for automated EDA and publication-ready survey visualizations. | <a href="https://github.com/AndersonMargalho/survey-insights-generator">View&nbsp;Code</a> |
+| **SQL Playground** | Advanced SQL queries (Window Functions, CTEs) on public datasets. | <a href="https://github.com/AndersonMargalho/sql-data-analysis-playground">View&nbsp;Code</a> |
+| **JS Components** | Vanilla JS dashboard components with zero build step. | <a href="https://andersonmargalho.github.io/javascript-dashboard-components/">Live&nbsp;Demo</a> |
 
 ---
 
@@ -90,10 +90,10 @@ Com mais de uma década de experiência construindo soluções de software, hoje
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :--- |
-| **LLM Harness** | CLI em Python para benchmark de provedores de LLM (latência, custo, precisão). | [Ver Código](https://github.com/AndersonMargalho/llm-api-evaluation-harness) |
-| **Survey Insights** | Dashboard em Streamlit para EDA automatizada e visualização de dados de pesquisa. | [Ver Código](https://github.com/AndersonMargalho/survey-insights-generator) |
-| **SQL Playground** | Consultas SQL avançadas (Window Functions, CTEs) em datasets públicos. | [Ver Código](https://github.com/AndersonMargalho/sql-data-analysis-playground) |
-| **JS Components** | Componentes de dashboard em Vanilla JS sem etapa de build. | [Live Demo](https://andersonmargalho.github.io/javascript-dashboard-components/) |
+| **LLM Harness** | CLI em Python para benchmark de provedores de LLM (latência, custo, precisão). | <a href="https://github.com/AndersonMargalho/llm-api-evaluation-harness">Ver&nbsp;Código</a> |
+| **Survey Insights** | Dashboard em Streamlit para EDA automatizada e visualização de dados de pesquisa. | <a href="https://github.com/AndersonMargalho/survey-insights-generator">Ver&nbsp;Código</a> |
+| **SQL Playground** | Consultas SQL avançadas (Window Functions, CTEs) em datasets públicos. | <a href="https://github.com/AndersonMargalho/sql-data-analysis-playground">Ver&nbsp;Código</a> |
+| **JS Components** | Componentes de dashboard em Vanilla JS sem etapa de build. | <a href="https://andersonmargalho.github.io/javascript-dashboard-components/">Live&nbsp;Demo</a> |
 
 ---
 
